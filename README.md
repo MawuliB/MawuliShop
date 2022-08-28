@@ -28,7 +28,7 @@ This is an inventory management system for both the admin and the attendant. Thi
 - Admin won't add the same Attendant or same product or same category twice. 
 - It will be used on the shop's PC
 - Data will be stored locally and by choice would be transferred to the cloud
-
+- Instead of barcode reader the search function on the sales screen give the gist of how the product can be fetched and read in the checkout list
 
 
 
