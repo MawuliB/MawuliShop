@@ -34,7 +34,7 @@ This is an inventory management system for both the admin and the attendant. Thi
 # How to get it working
 - Git Pull or download and unzip the file
 - Just incase, visual studio 19 was used.
-- Create Microsoft SQL Server Database File (SqlClient) with the tables below
+- Create **Microsoft SQL Server Database File (SqlClient)** with the tables below
 
 
 ![alt text](https://github.com/MawuliB/MawuliShop/blob/master/git.png)
