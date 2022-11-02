@@ -31,5 +31,9 @@ This is an inventory management system for both the admin and the attendant. Thi
 - Instead of barcode reader the search function on the sales screen give the gist of how the product can be fetched and read in the checkout list
 
 
-
-
+# How to get it working
+Git Pull or download and unzip the file
+Just incase, visual studio 19 was used.
+Create Microsoft SQL Server Database File (SqlClient) with the tables below
+![alt text](https://github.com/MawuliB/MawuliShop/blob/master/git.png)
+**Run**
