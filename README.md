@@ -38,6 +38,11 @@ This is an inventory management system for both the admin and the attendant. Thi
 
 
 ![alt text](https://github.com/MawuliB/MawuliShop/blob/master/git.png)
+![alt text](https://github.com/MawuliB/MawuliShop/blob/master/1.png)
+![alt text](https://github.com/MawuliB/MawuliShop/blob/master/2.png)
+![alt text](https://github.com/MawuliB/MawuliShop/blob/master/3.png)
+![alt text](https://github.com/MawuliB/MawuliShop/blob/master/4.png)
+![alt text](https://github.com/MawuliB/MawuliShop/blob/master/5.png)
 
 
 - **Run**
